@@ -23,3 +23,5 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/names2groups2jsonl/names2groups2jsonl
